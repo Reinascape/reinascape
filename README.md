@@ -1,3 +1,3 @@
-![wenemous's Stats](https://github-readme-stats.vercel.app/api?username=wenemous&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
-![wenemous's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wenemous&theme=chartreuse-dark&hide_border=false)
-![wenemous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenemous&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+[![](https://raw.githubusercontent.com/wenemous/wenemous/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wenemous/wenemous/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/wenemous/wenemous/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/wenemous/wenemous/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
